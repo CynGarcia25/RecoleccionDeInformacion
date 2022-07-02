@@ -2,7 +2,7 @@
 
 ##Pasos para clonar el repositorio de GitHub
 
-1. En la página principal del archivo, ir a la pestaña <Code>, verificar que estén en la rama main, buscar el botón Code y desplegar. Se abre una ventanita con tres opciones: HTTPS, SSH y GitHubCLI. Posicionarse en HTTPS Y copiar la dirección del repositorio (Ej: https://github.com/CynGarcia25/RecoleccionDeInformacion.git), que luego se usará seguido del comando git clone.
+1. En la página principal del archivo, ir a la pestaña **Code**, verificar que estén en la rama main, buscar el botón Code y desplegar. Se abre una ventanita con tres opciones: HTTPS, SSH y GitHubCLI. Posicionarse en HTTPS Y copiar la dirección del repositorio (Ej: https://github.com/CynGarcia25/RecoleccionDeInformacion.git), que luego se usará seguido del comando git clone.
 
 - git clone https://github.com/CynGarcia25/RecoleccionDeInformacion.git
 
